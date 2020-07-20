@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "128042202507",
+    "firebase_url": "https://iposti-9a051.firebaseio.com",
+    "project_id": "iposti-9a051",
+    "storage_bucket": "iposti-9a051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128042202507:android:36e09b46de0d428a",
+        "android_client_info": {
+          "package_name": "com.tecnovajet.iposti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128042202507-0201orkbutdg6uinlu2ekgfvph43o7di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecnovajet.iposti",
+            "certificate_hash": "62530468af240449d2c2726e71b51e5bc61c1e26"
+          }
+        },
+        {
+          "client_id": "128042202507-q9f2n74pi7c247rl2gsnr58mgo707d5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecnovajet.iposti",
+            "certificate_hash": "73bd6805375ccdad7bd5fa55b287b5735324d520"
+          }
+        },
+        {
+          "client_id": "128042202507-k8mr9b26d8btvbfcbtg2oqj513vlpbpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq5V5A_u2RupYZhE5r526RzBNcjbpahZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128042202507-k8mr9b26d8btvbfcbtg2oqj513vlpbpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

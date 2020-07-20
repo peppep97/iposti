@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/last_minute"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/ic_flash_on"
+        android:title="Last minute" />
+
+    <item
+        android:id="@+id/facilities"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/ic_place"
+        android:title="Strutture" />
+    <item
+        android:id="@+id/bookings"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/ic_event"
+        app:labelVisibilityMode="selected"
+        android:title="Prenotazioni" />
+    <item
+        android:id="@+id/favorites"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/ic_favorite"
+        android:title="Preferiti" />
+    <item
+        android:id="@+id/account"
+        android:layout_width="wrap_content"
+        android:icon="@drawable/ic_account_circle"
+        android:title="Account" />
+</menu>
